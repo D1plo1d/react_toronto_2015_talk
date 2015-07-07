@@ -1,0 +1,25 @@
+{
+  "name": "frig-example",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./example.coffee",
+  "dependencies": {
+    "coffee-script": "1.9.2",
+    "webpack": "*",
+    "webpack-dev-server": "*",
+    "css-loader": "*",
+    "style-loader": "*",
+    "stylus-loader": "*",
+    "coffee-loader": "*",
+    "jade-loader": "*",
+    "url-loader": "*",
+    "react": "0.13.3",
+    "bootstrap": "*",
+    "MD5": "1.2.2",
+    "frig": "*"
+  },
+  "engines": {
+    "node": "~0.12.x",
+    "npm": "2.7.x"
+  }
+}
